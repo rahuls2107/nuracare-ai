@@ -37,7 +37,7 @@ We're working to help communities and pharma companies by generating anonymized 
 ## 💬 Contact
 
 For collaboration, questions, or early access:  
-📧 hello@nuracare.ai
+📧 nuracareai@gmail.com
 
 ---
 
