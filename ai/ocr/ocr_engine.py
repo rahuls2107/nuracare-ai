@@ -1,1 +1,0 @@
-# Placeholder for OCR processing using Google Vision or Tesseract
